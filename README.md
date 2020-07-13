@@ -18,6 +18,7 @@ Combined With JD, bilibili, NetEase Slider Verification
 
 准确率达到94%以上，针对于爬虫或者自动化测试非常有用
 
+洽谈项目合作，可以联系我！
 
 # Contact
  if you like the work we do, Please let us know
